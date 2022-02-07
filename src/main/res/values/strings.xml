@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MSScienceBowlApp</string>
+    <string name="midde_school_science_bowl_app">Midde School Science Bowl App</string>
+    <string name="quiz_mode">Quiz Mode</string>
+    <string name="question_source">Question Source</string>
+    <string name="middle_school_science_bowl_app">Middle School Science Bowl App</string>
+    <string name="home">HOME</string>
+    <string name="next">Next</string>
+    <string name="end_quiz">End Quiz</string>
+    <string name="w">W</string>
+    <string name="y">Y</string>
+    <string name="z">Z</string>
+    <string name="x">X</string>
+</resources>
